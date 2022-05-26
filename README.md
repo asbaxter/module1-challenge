@@ -17,6 +17,7 @@ THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of 
 styling and positioning
+# code already followed a logical structure, some divs were changed to sections for best practice. 
 
 
 WHEN I view the image elements
@@ -25,6 +26,7 @@ THEN I find accessible alt attributes
 
 WHEN I view the heading attributes
 THEN they fall in sequential order
+# header elemets seem to be in sequential order.
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
