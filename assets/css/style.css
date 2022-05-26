@@ -75,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/*benefits section was condensed*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +102,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Content section was condensed*/
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -127,6 +128,6 @@ footer {
     text-align: center;
 }
 
-footer h3 {
+footer h4 {
     font-size: 20px;
 }
